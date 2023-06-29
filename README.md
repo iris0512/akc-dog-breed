@@ -1,4 +1,4 @@
-# akc-dog-breed
+# akc-dog-breed-analysis
 scraping data from the American Kennel Club website to build a visualization to help compare two breeds of dogs. The dataset can also be used for other analytical purpsoses to answer questions regarding family-friendly breeds, group dogs by their characteristics and so on.
 
 #### Steps
