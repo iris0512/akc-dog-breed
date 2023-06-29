@@ -1,5 +1,5 @@
 # akc-dog-breed
-scraping data from the akc website to build a visualization to help compare two breeds of dogs. The dataset can also be used for other analytical purpsoses to answer questions regarding family-friendly breeds, group dogs by their characteristics and so on.
+scraping data from the American Kennel Club website to build a visualization to help compare two breeds of dogs. The dataset can also be used for other analytical purpsoses to answer questions regarding family-friendly breeds, group dogs by their characteristics and so on.
 
 #### Steps
 1. **data_extraction.py**: This file contains the code to extract the data using Beautiful Soup and Selenium. Since the traits and characteristics we need is present inside multiple divs and is based on a whether the UI is filled or selected, we opted to use Selenium to gather the data.
